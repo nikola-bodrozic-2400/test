@@ -10,7 +10,7 @@
 	<classpathentry kind="lib" path="lib/hadoop/commons-logging-api-1.0.4.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop/commons-net-1.4.1.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop/jets3t-0.6.1.jar"/>
-	<classpathentry kind="lib" path="lib/hadoop/log4j-1.2.15.jar"/>
+
 	<classpathentry kind="lib" path="lib/hadoop/oro-2.0.8.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop/slf4j-api-1.4.3.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop/slf4j-log4j12-1.4.3.jar"/>

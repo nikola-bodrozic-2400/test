@@ -2,7 +2,7 @@
 <dialog text=" Check Index" >
 	<panel columns="2" gap="2">
 
-                <label font="bold" name="dirName" text="?"/>
+
         </panel>
 	<panel gap="2" columns="2" weightx="1" halign="fill">
         	<button rowspan="2" weightx="1" halign="left" valign="center" text="Check Index" action="checkIndex(checkindex)"/>
